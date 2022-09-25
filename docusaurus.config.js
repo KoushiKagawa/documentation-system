@@ -37,7 +37,8 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            //'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/KoushiKagawa/documentation-system/edit/main/',
         },
         blog: {
           showReadingTime: true,
@@ -65,13 +66,13 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'about',
             position: 'left',
-            label: 'Tutorial',
+            label: 'docs',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/KoushiKagawa/documentation-system',
             label: 'GitHub',
             position: 'right',
           },
@@ -87,11 +88,12 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'About',
+                to: '/docs/about',
               },
             ],
           },
+          /*
           {
             title: 'Community',
             items: [
@@ -109,16 +111,17 @@ const config = {
               },
             ],
           },
+          */
           {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'note',
+                to: 'https://note.com/koushikagawa/',
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/KoushiKagawa/documentation-system/',
               },
             ],
           },
