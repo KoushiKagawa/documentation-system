@@ -2,10 +2,11 @@
 sidebar_position: 1
 ---
 
-# About
+# About me
 - Koushi Kagawa
 - [twitter](https://twitter.com/koushikagawa)
 - [note](https://note.com/koushikagawa/)
+- [職務経歴書](https://koushikagawa.github.io/)
 
 ## 職務経歴
 

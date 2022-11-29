@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'koushikagawa.com',
   tagline: 'I write tech',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://koushikagawa.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -55,7 +55,17 @@ const config = {
       }),
     ],
   ],
-
+/*
+  plugins: [
+    [
+      '@docusaurus/plugin-google-gtag',
+      {
+        trackingID: 'G-ZWEH8WFMM2',
+        anonymizeIP: true,
+      },
+    ],
+  ],
+*/
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
