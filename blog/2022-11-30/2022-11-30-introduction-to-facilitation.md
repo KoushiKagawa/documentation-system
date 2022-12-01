@@ -3,7 +3,10 @@ slug: introduction-to-facilitation
 title: 『ファシリテーション入門』を読んだ
 authors: [kagawa]
 tags: [book]
+image: /assets/images/2022-11-30-e89dd14485268d7c13ba12cd715d6c95.JPG
 ---
+
+![Docusaurus Plushie](./2022-11-30.JPG)
 
 ファシリテーションが苦手だ。
 
