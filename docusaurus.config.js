@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'koushikagawa.com',
+  title: 'kagawa.com',
   tagline: 'I write tech',
   url: 'https://koushikagawa.com',
   baseUrl: '/',
@@ -75,7 +75,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'koushikagawa.com',
+        title: 'kagawa.com',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
