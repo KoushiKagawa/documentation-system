@@ -1,7 +1,9 @@
 {
-  "label": "Guide",
+  "label": "ガイドライン",
   "position": 2,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+    "slug": "guide",
+    "description": "ドキュメントサイトを構成するためのガイドラインを記載します。文章をどのような形で表現するかの基本ルールを定めています。"
   }
 }
