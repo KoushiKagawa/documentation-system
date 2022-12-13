@@ -26,7 +26,9 @@
     "react-dom": "^17.0.2"
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "^2.2.0"
+    "@docusaurus/module-type-aliases": "^2.2.0",
+    "textlint": "^12.2.4",
+    "textlint-rule-preset-ja-technical-writing": "^7.0.0"
   },
   "browserslist": {
     "production": [
@@ -42,5 +44,20 @@
   },
   "engines": {
     "node": ">=16.14"
-  }
+  },
+  "description": "This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.",
+  "main": "babel.config.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KoushiKagawa/documentation-system.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KoushiKagawa/documentation-system/issues"
+  },
+  "homepage": "https://github.com/KoushiKagawa/documentation-system#readme"
 }
