@@ -310,4 +310,4 @@ Repro開発者向けドキュメントサイト、[docs.repro.io](https://docs.r
 
 ## お問合せ先
 お仕事の依頼、このページについての問い合わせなどは、TwitterよりDMください。
-https://twitter.com/koushikagawa
+[https://twitter.com/koushikagawa](https://twitter.com/koushikagawa)
