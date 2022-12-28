@@ -63,7 +63,7 @@ Repro開発者向けドキュメントサイト、[docs.repro.io](https://docs.r
 - 提案から制作、保守まで一貫して対応。
 
 #### 2.地域メディア運用(2021年3月に閉鎖)
-- Ringos([https://ringos.me/](https://ringos.me/))という松本市のローカルメディアを2018年1月より開始。
+- Ringosという松本市のローカルメディアを2018年1月より開始。
   
 #### 3.ECサイト運用サービス保守(2019年8月に事業売却)
 - アクセサリーECサイトの運用を行なっております。  
@@ -123,6 +123,12 @@ Repro開発者向けドキュメントサイト、[docs.repro.io](https://docs.r
 ### プロダクト開発
 個人で、または社外のチームメンバーとともにWebサービス制作を行っています。
 
+#### テクニカルライティングサイト
+- [https://koushikagawa.com/](https://koushikagawa.com/)
+- テクニカルライティングについてのtipsをまとめたサイト
+- 個人開発
+- 担当：ライティング、サイト構築([Docusaurus](https://docusaurus.io/)利用)
+
 #### ポートフォリオサイト
 - [https://koushikagawa.net/](https://koushikagawa.net/)
 - 私のポートフォリオサイトです。
@@ -136,34 +142,31 @@ Repro開発者向けドキュメントサイト、[docs.repro.io](https://docs.r
 - 担当：企画、プログラミング（Vue.js、HTML、CSS）
 
 #### monocrew(2021年3月閉鎖)
-- [https://monocrew.jp/](https://monocrew.jp/)
-- monocrewは、SNSで探しモノを簡単に見つけることができるWebサービス。
+- https://note.com/koushikagawa/n/n1d70562c1799
+- monocrewは、SNSで探しモノを簡単に見つけることができるWebサービスです
 - チーム開発
 - 担当：企画、Laravel開発、保守・運用
 
 #### ラブ松本市(2020年3月閉鎖)
-- [https://lovematsumoto.city/](https://lovematsumoto.city/)
 - 松本市の良いところ、好きなところを誰でも投稿できるサイト。気軽に地元の良いところを発表できる場を作りたいと思い、このサイトを作成しました。
 - 個人開発
 - 担当：企画、Drupal開発、保守・運用
 
 #### Morning Drupal(2020年3月閉鎖)
-- [https://morning-drupal.com/](https://morning-drupal.com/)
-- オープンソースCMS『Drupal 8』の解説サイト。Drupal 8の日本語での情報が少なかったので、情報発信のために作成。
+- オープンソースCMS『Drupal 8』の解説サイト。Drupal 8の日本語での情報が少なかったので、情報発信のために作成
 - 個人開発
 - 担当：企画、Drupal開発、保守・運用
 
 ## プログラミングスキル
-
 ### Drupal (5以降)
 - 2007年〜現在。5系(2007年)から日常的に利用。メジャーなモジュール、開発手法等は問題なく理解している。
-- Morning Drupal([https://morning-drupal.com/](https://morning-drupal.com/))というDrupal8系の利用方法を説明したサイトを作成。
-- Youtube([https://www.youtube.com/channel/UCBBvC9xPRDnGuzXpblkivIQ](https://www.youtube.com/channel/UCBBvC9xPRDnGuzXpblkivIQ))にてDrupal利用方法の紹介。
+- Morning DrupalというDrupal8系の利用方法を説明したサイトを作成。
+- [Youtube](https://www.youtube.com/channel/UCBBvC9xPRDnGuzXpblkivIQ)にてDrupal利用方法の紹介。
 
 ### Laravel (5.7以降)
 - 2018年から個人開発にてLaravelを利用している。
-- note([https://note.com/koushikagawa/m/m7aa7d54940b4](https://note.com/koushikagawa/m/m7aa7d54940b4))にLaravel利用方法を記載。
-- Youtube([https://www.youtube.com/channel/UCLhzUjF6Y__EVVX_XY9XGDA](https://www.youtube.com/channel/UCLhzUjF6Y__EVVX_XY9XGDA))にて簡単なデモ動画投稿。
+- [note](https://note.com/koushikagawa/m/m7aa7d54940b4)にLaravel利用方法を記載。
+- [Youtube](https://www.youtube.com/channel/UCLhzUjF6Y__EVVX_XY9XGDA)にて簡単なデモ動画投稿。
 
 ### PHP (5以降)
 - 2007年〜現在。DrupalやLaravelの使用のために利用。
@@ -179,14 +182,17 @@ Repro開発者向けドキュメントサイト、[docs.repro.io](https://docs.r
 
 ### Vue.js
 - 2018年〜現在。簡単なアプリの制作が可能。  
-例：noteシュミレーター([https://notesimulator.netlify.com/](https://notesimulator.netlify.com/))  
-noteのタイムライン、検索結果のプレビューが確認できるサイトです。
+    - 例：[noteシュミレーター](https://notesimulator.netlify.com/)  
+    - noteのタイムライン、検索結果のプレビューが確認できるサイトです。
 
 ### Nuxt.js
 - 2018年〜現在。Headless CMSのフロントエンド利用。
 
 ### WordPress
 - 2018年より制作開始。簡単なWebサイト構築が可能。
+
+### Docusaurus
+- 2021年より利用開始。ドキュメントサイト構築時に利用。
 
 ### markdown
 - 一般的なmarkdown記法の記述可能。
@@ -197,33 +203,39 @@ noteのタイムライン、検索結果のプレビューが確認できるサ�
 - 2018年〜現在。デザインモック作成や、画面遷移図作成のために利用。
 
 ### Overflow
-- 2018年〜現在。Adobe XDと連携して画面遷移図を作成するために利用。noteに使い方まとめました。
- - 『Overflow』 -画面遷移図の作成が超捗るツール - の使い方。  
-  ([https://note.com/koushikagawa/n/n07aa09e9ae98](https://note.com/koushikagawa/n/n07aa09e9ae98))
- - OverflowがAdobe XDと連携したようなので利用してみました。  
- ([https://note.com/koushikagawa/n/n4662aa9290b1](https://note.com/koushikagawa/n/n4662aa9290b1))
+- 2018年〜現在。Adobe XDと連携して画面遷移図を作成するために利用。noteに使い方まとめました
+ - [『Overflow』 -画面遷移図の作成が超捗るツール - の使い方。](https://note.com/koushikagawa/n/n07aa09e9ae98)  
+ - [OverflowがAdobe XDと連携したようなので利用してみました。](https://note.com/koushikagawa/n/n4662aa9290b1) 
 
 ### さくらレンタルサーバー
-- 2007年〜現在。DrupalやLaravel等で作成したサイトのデプロイに利用。
+- 2007年〜現在。DrupalやLaravel等で作成したサイトのデプロイに利用
 
 ### GitHub
-- 2018年〜現在。
- - [https://github.com/KoushiKagawa/](https://github.com/KoushiKagawa/)
+- 2018年〜現在
 
 ### Cacoo
-- 2018年〜現在。ER図の作成に利用。
+- 2018年〜現在。ER図の作成に利用
 
 ### Slack
-- 2016年〜現在。チームコミュニケーション用に利用。
+- 2016年〜現在。チームコミュニケーション用に利用
 
 ### Trello
-- 2016年〜現在。タスク管理に利用。
+- 2016年〜現在。タスク管理に利用
 
 ### Bear
 - 2018年〜現在。簡単なメモに利用。（[note](https://note.com/koushikagawa/n/n7c4d2988c4cf)にBearの解説記載）
 
 ### Notion
-- 2018年〜現在。プロジェクト管理に利用。
+- 2018年〜現在。プロジェクト管理に利用
+
+### Miro
+- 2020年〜。チームビルディング等で利用
+
+### Backlog
+- 2020年〜。タスク管理に利用
+
+### ClickUp
+- 2022年〜。タスク管理に利用
 
 ## 著作
 ### Drupal Pro Book CMSカスタマイズ&デザインガイド
