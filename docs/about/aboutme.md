@@ -21,7 +21,7 @@ sidebar_position: 1
 |  会社名  |  期間  |  やったこと  |
 | ---- | ---- | ---- |  
 |  [Repro株式会社](#repro株式会社202205現在) |  2022/05 〜  | 開発ドキュメントサイト担当のプロジェクトマネージャー/ テクニカルライター |
-|  [株式会社ディバータ](#株式会社ディバータ202005202204)  |  2020/05 〜 2022/04  | プロジェクトマネージャー/ テクニカルライター |
+|  [株式会社ディバータ](#株式会社ディバータ202005202204)  |  2020/05 〜 2022/04  | プロジェクトマネージャー/ テクニカルライター<br/>業務委託で参加。 |
 |  [株式会社Res](#株式会社res201209--202204)  |  2012/09 〜 2022/04 | 代表<br/>事業売却により解散 |
 |  [Isobar Japan株式会社](#isobar-japan株式会社201202--201208)(現 電通アイソバー)  |  2012/02 〜 2012/08  | Web ディレクター・エンジニア |
 |  [株式会社GIM](#株式会社gim20704--201201)(現 株式会社アウトソーシングテクノロジー)  |  2007/04 〜 2012/01 | Web ディレクター/エンジニア |
@@ -157,84 +157,85 @@ Repro開発者向けドキュメントサイト、[docs.repro.io](https://docs.r
 - 個人開発
 - 担当：企画、Drupal開発、保守・運用
 
-## プログラミングスキル
-### Drupal (5以降)
+## スキル
+### プログラミングスキル
+#### Drupal (5以降)
 - 2007年〜現在。5系(2007年)から日常的に利用。メジャーなモジュール、開発手法等は問題なく理解している。
 - Morning DrupalというDrupal8系の利用方法を説明したサイトを作成。
 - [Youtube](https://www.youtube.com/channel/UCBBvC9xPRDnGuzXpblkivIQ)にてDrupal利用方法の紹介。
 
-### Laravel (5.7以降)
+#### Laravel (5.7以降)
 - 2018年から個人開発にてLaravelを利用している。
 - [note](https://note.com/koushikagawa/m/m7aa7d54940b4)にLaravel利用方法を記載。
 - [Youtube](https://www.youtube.com/channel/UCLhzUjF6Y__EVVX_XY9XGDA)にて簡単なデモ動画投稿。
 
-### PHP (5以降)
+#### PHP (5以降)
 - 2007年〜現在。DrupalやLaravelの使用のために利用。
 
-### MySQL
+#### MySQL
 - 2007年〜現在。DrupalやLaravelの使用のために利用。
 
-### HTML
+#### HTML
 - 2007年〜現在。読み書き問題なく利用可能。デザイナーからデザインを起こす作業のため利用。
 
-### CSS
+#### CSS
 - 2007年〜現在。読み書き問題なく利用可能。デザイナーからデザインを起こす作業のため利用。
 
-### Vue.js
+#### Vue.js
 - 2018年〜現在。簡単なアプリの制作が可能。  
     - 例：[noteシュミレーター](https://notesimulator.netlify.com/)  
     - noteのタイムライン、検索結果のプレビューが確認できるサイトです。
 
-### Nuxt.js
+#### Nuxt.js
 - 2018年〜現在。Headless CMSのフロントエンド利用。
 
-### WordPress
+#### WordPress
 - 2018年より制作開始。簡単なWebサイト構築が可能。
 
-### Docusaurus
+#### Docusaurus
 - 2021年より利用開始。ドキュメントサイト構築時に利用。
 
-### markdown
+#### markdown
 - 一般的なmarkdown記法の記述可能。
 
-## その他ツールスキル
+### ツールスキル
 
-### Adobe XD
+#### Adobe XD
 - 2018年〜現在。デザインモック作成や、画面遷移図作成のために利用。
 
-### Overflow
+#### Overflow
 - 2018年〜現在。Adobe XDと連携して画面遷移図を作成するために利用。noteに使い方まとめました
  - [『Overflow』 -画面遷移図の作成が超捗るツール - の使い方。](https://note.com/koushikagawa/n/n07aa09e9ae98)  
  - [OverflowがAdobe XDと連携したようなので利用してみました。](https://note.com/koushikagawa/n/n4662aa9290b1) 
 
-### さくらレンタルサーバー
+#### さくらレンタルサーバー
 - 2007年〜現在。DrupalやLaravel等で作成したサイトのデプロイに利用
 
-### GitHub
+#### GitHub
 - 2018年〜現在
 
-### Cacoo
+#### Cacoo
 - 2018年〜現在。ER図の作成に利用
 
-### Slack
+#### Slack
 - 2016年〜現在。チームコミュニケーション用に利用
 
-### Trello
+#### Trello
 - 2016年〜現在。タスク管理に利用
 
-### Bear
+#### Bear
 - 2018年〜現在。簡単なメモに利用。（[note](https://note.com/koushikagawa/n/n7c4d2988c4cf)にBearの解説記載）
 
-### Notion
+#### Notion
 - 2018年〜現在。プロジェクト管理に利用
 
-### Miro
+#### Miro
 - 2020年〜。チームビルディング等で利用
 
-### Backlog
+#### Backlog
 - 2020年〜。タスク管理に利用
 
-### ClickUp
+#### ClickUp
 - 2022年〜。タスク管理に利用
 
 ## 著作
