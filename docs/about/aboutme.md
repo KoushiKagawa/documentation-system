@@ -2,6 +2,17 @@
 sidebar_position: 1
 ---
 
+こんにちは、賀川(かがわ)と申します。  
+このページでは、テクニカルライター/プロジェクトマネージャー/プロダクトマネージャーとして働いている私の経歴や働き方の紹介をしています。
+
+現在、業務委託で業務を募集しています。何かお力になれることがあればご連絡ください。
+
+:::note
+
+お問い合わせは[TwitterよりDM](https://twitter.com/koushikagawa)ください。
+
+:::
+
 # 職務経歴書
 ## アカウント  
 
@@ -10,12 +21,12 @@ sidebar_position: 1
 |  名前  |  賀川昂史 Kagawa Koushi  |
 |  場所  |  長野県松本市  |
 |  Writing Blog  |  [kagawa Writing](https://koushikagawa.com)  |
-|  twitter  |  [@koushikagawa](https://twitter.com/koushikagawa)  |
+|  Twitter  |  [@koushikagawa](https://twitter.com/koushikagawa)  |
 |  GitHub  |  [@koushikagawa](https://github.com/KoushiKagawa)  |
 |  note  |  [@koushikagawa](https://note.com/koushikagawa)  |
 |  Facebook  |  [@koushikagawa](https://www.facebook.com/koushikagawa)  |
 |  Instagram  |  [@kagakoh](https://www.instagram.com/kagakoh/)  |
-|  お問合せ  |  [twitterよりDM下さい](https://twitter.com/koushikagawa)  |
+|  お問合せ  |  [TwitterよりDM下さい](https://twitter.com/koushikagawa)  |
 
 ## 職務経歴
 ### 職務経歴(サマリー)
@@ -280,6 +291,7 @@ CEOや役員のやりたいことや思いを応援できるか、一緒に作�
 プロダクトのビジョンに共感でき、ユーザに価値を提供したいと思えるかを重視します。
 #### チームメンバーが魅力的か
 お互いに成長しあえるか、コミュニケーションをとりやすいかを重視します。
+
 #### 自分がチームに貢献できるか
 自分のスキルで事業に貢献できる、またはメンバーの成長を助けられるかどうかを重視します。
 #### 納得のある対価
