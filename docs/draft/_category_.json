@@ -1,0 +1,9 @@
+{
+  "label": "ドラフト",
+  "position": 9999,
+  "link": {
+    "type": "generated-index",
+    "slug": "draft",
+    "description": "noteやブログにする前のドラフト集です。こちらの記事を元ネタにして、noteにまとめています"
+  }
+}
