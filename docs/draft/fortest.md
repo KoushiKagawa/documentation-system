@@ -55,3 +55,6 @@ https://www.jtca.org/certificate_exam/jsg_book_reidai.pdf
 - 結果
     - １問明らかな間違い。それ以外は判断が難しい
 
+
+## セミナーを受ける
+2023/06/21 のセミナーを実施
