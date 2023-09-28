@@ -30,7 +30,7 @@ https://www.jtca.org/certificate_exam/exam_writing_b.html
 - [テクニカルライティングの検定を受けてみた話](https://speakerdeck.com/line_developers/my-story-about-taking-the-technical-writing-exam)
 
 ## 試しに過去問をやってみる
-
+日本語スタイルガイドの最後に載っている過去問をやる。
 
 ### 選択問題
 https://www.jtca.org/publication/jsg_book_reidai.pdf
@@ -57,4 +57,6 @@ https://www.jtca.org/certificate_exam/jsg_book_reidai.pdf
 
 
 ## セミナーを受ける
-2023/06/21 のセミナーを実施
+2023/06/21 のセミナーを受講
+
+## 試験を受ける
